@@ -1,1 +1,7 @@
 bayc/
+bayc/
+logs/
+.idea/
+__pycache__/
+critic.pth
+generator.pth
